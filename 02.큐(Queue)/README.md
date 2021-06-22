@@ -33,4 +33,4 @@
 
 
 # 4. 인큐,데큐 기능 구현하기(리스트변수 사용)
-- 0.2큐(Queue).ipynb파일참조
+- [0.2큐(Queue).ipynb파일참조](https://github.com/SIMYJ/Data-structure-and-Algorithm/blob/main/02.%ED%81%90(Queue)/0.2%20%ED%81%90(Queue).ipynb)
