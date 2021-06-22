@@ -22,8 +22,11 @@
 # 3. 파이썬 구현
 - 다양한 종류의 큐 : Queue(), LifoQueue(), PriorityQueue()
 - Queue() : 가장 일반적인 자료구조 큐
+![](https://i.imgur.com/dAg5XCD.png)
 - LifoQueue() : 나중에 입력된 데이터가 먼저 출력되는 구조 (스택 구조와 같다.)
+![](https://i.imgur.com/26R4Tf4.png)
 - PriorityQueue() : 데이터마다 우선순위를 넣어서, 우선순위가 높은 순으로 데이터 출력
+![](https://i.imgur.com/sqKzYZB.png)
 
 
 ## 큐는 어디에서 사용되는가?
