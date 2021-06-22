@@ -29,7 +29,7 @@
 ![](https://i.imgur.com/26R4Tf4.png)
 ###
 - PriorityQueue() : 데이터마다 우선순위를 넣어서, 우선순위가 높은 순으로 데이터 출력     
-![](https://i.imgur.com/sqKzYZB.png)
+![](https://i.imgur.com/yrLxX37.png)
 ###
 
 ## 큐는 어디에서 사용되는가?
