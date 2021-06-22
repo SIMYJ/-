@@ -32,5 +32,5 @@
     - 큐의 경우 장단점보다는 큐의 활용 예로 프로세스 스케쥴링 방식을 함께 이해하는것이 좋다.
 
 
-# 4. 인큐,데큐 기능 구현하기(리스트변수 사용)
+# 4. 인큐,데큐 기능 구현하기(리스트변수 사용) 
 - [0.2큐(Queue).ipynb파일참조](https://github.com/SIMYJ/Data-structure-and-Algorithm/blob/main/02.%ED%81%90(Queue)/0.2%20%ED%81%90(Queue).ipynb)
