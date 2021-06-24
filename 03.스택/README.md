@@ -73,7 +73,7 @@ returned 4
 
 
 # 5. 스택 메서드 구현하기(리스트변수 사용)
-- [0.2큐(Queue).ipynb파일참조](.ipynb)
+- [스택(Stack).ipynb파일참조](https://github.com/SIMYJ/Data-structure-and-Algorithm/blob/main/03.%EC%8A%A4%ED%83%9D/%EC%8A%A4%ED%83%9D(Stack).ipynb)
 
        
    
