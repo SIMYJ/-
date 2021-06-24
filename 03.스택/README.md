@@ -61,7 +61,7 @@ returned 4
 
 <img src = "https://i.imgur.com/dZzTXK2.png" width="700px">
 
-## 4. 자료 구조 스택의 장단점
+# 4. 자료 구조 스택의 장단점
 - 장점
   - 구조가 단순해서, 구현이 쉽다.
   - 데이터 저장/읽기 속도가 빠르다.
