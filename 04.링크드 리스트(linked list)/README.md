@@ -8,9 +8,10 @@
 - <font color='#BF360C'>C언어에서는 주요한 데이터 구조이지만, 파이썬은 리스트 타입이 링크드 리스트의 기능을 모두 지원</font>
 
 ## 2. 링크드 리스트 기본 구조와 용어
+  - 링크드 리스트는 노드라는 데이터로 구성된다. 노드는 데이터값과 다음데이터의 주소값(포인터) 2가지로 구성된다.  	
   - 노드(Node): 데이터 저장 단위 (데이터값, 포인터) 로 구성
   - 포인터(pointer): 각 노드 안에서, 다음이나 이전의 노드와의 연결 정보를 가지고 있는 공간
-<img src="https://www.fun-coding.org/00_Images/linkedlist.png" background="#999999" />
+<img src="https://www.fun-coding.org/00_Images/linkedlist.png" bgcolor="#999999" />
 (출처: wikipedia, https://en.wikipedia.org/wiki/Linked_list)
 
 ## 3. 링크드 리스트의 장단점 (C언어의 배열과 링크드 리스트 비교)
