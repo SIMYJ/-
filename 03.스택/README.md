@@ -12,10 +12,11 @@
 - peek : 스택의 top에 있는 원소 반환
 
 ```
-스택 시연해보기 : <font color='#BF360C'>Visualgo 사이트에서 시연해보며 이해하기 (push/pop 만 클릭해보며): https://visualgo.net/en/list
+스택 시연해보기 : https://visualgo.net/en/list
 
 ### 3. 푸시(push),팝(pop) 동작
-![스택 푸시 팝 동](https://i.imgur.com/D02ySLP.gif){: width="100" height="100"}
+<img src = "https://i.imgur.com/D02ySLP.gif" width="300px">
+
 
 
 
@@ -57,8 +58,8 @@ returned 2
 returned 3
 returned 4
 ```
-![프로세스 스택](https://i.imgur.com/dZzTXK2.png){: width="100" height="100"}
 
+<img src = "https://i.imgur.com/dZzTXK2.png" width="300px">
 
 ## 6. 자료 구조 스택의 장단점
 - 장점
