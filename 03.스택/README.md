@@ -14,13 +14,13 @@
 ```
 스택 시연해보기 : https://visualgo.net/en/list
 
-### 3. 푸시(push),팝(pop) 동작
-<img src = "https://i.imgur.com/D02ySLP.gif" width="300px">
+## 푸시(push),팝(pop) 동작
+<img src = "https://i.imgur.com/D02ySLP.gif" width="500px">
 
 
 
 
-## 4. 스택는 어디에서 사용되는가?
+# 3. 스택는 어디에서 사용되는가?
 - 프로세스 스택
 - 재귀 함수
 - 웹 브라우저 방문기록 (뒤로가기)
@@ -30,7 +30,7 @@
 - 깊이 우선 탐색(DFS,Depth first Search)
 
 
-## 5. 스택 구조와 프로세스 스택
+## 스택 구조와 프로세스 스택
 - 스택 구조는 프로세스 실행 구조의 가장 기본
 - 함수 호출시 프로세스 실행 구조를 스택과 비교해서 이해 필요
 ```python
@@ -59,9 +59,9 @@ returned 3
 returned 4
 ```
 
-<img src = "https://i.imgur.com/dZzTXK2.png" width="300px">
+<img src = "https://i.imgur.com/dZzTXK2.png" width="700px">
 
-## 6. 자료 구조 스택의 장단점
+## 4. 자료 구조 스택의 장단점
 - 장점
   - 구조가 단순해서, 구현이 쉽다.
   - 데이터 저장/읽기 속도가 빠르다.
@@ -72,7 +72,7 @@ returned 4
     - 미리 최대 갯수만큼 저장 공간을 확보해야 함
 
 
-# 7. 스택 메서드 구현하기(리스트변수 사용)
+# 5. 스택 메서드 구현하기(리스트변수 사용)
 - [0.2큐(Queue).ipynb파일참조](.ipynb)
 
        
