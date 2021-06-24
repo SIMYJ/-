@@ -14,8 +14,8 @@
 ```
 스택 시연해보기 : <font color='#BF360C'>Visualgo 사이트에서 시연해보며 이해하기 (push/pop 만 클릭해보며): https://visualgo.net/en/list
 
-###3. 푸시(push),팝(pop) 동작
-![스택 푸시 팝 동](https://i.imgur.com/D02ySLP.gif)
+### 3. 푸시(push),팝(pop) 동작
+![스택 푸시 팝 동](https://i.imgur.com/D02ySLP.gif){: width="200" height="200"}
 
 
 
@@ -30,8 +30,8 @@
 
 
 ## 5. 스택 구조와 프로세스 스택
-스택 구조는 프로세스 실행 구조의 가장 기본
-함수 호출시 프로세스 실행 구조를 스택과 비교해서 이해 필요
+- 스택 구조는 프로세스 실행 구조의 가장 기본
+- 함수 호출시 프로세스 실행 구조를 스택과 비교해서 이해 필요
 ```python
 #재귀 함수
 def recursive(data):
@@ -57,7 +57,7 @@ returned 2
 returned 3
 returned 4
 ```
-![프로세스 스택](https://i.imgur.com/dZzTXK2.png)
+![프로세스 스택](https://i.imgur.com/dZzTXK2.png){: width="250" height="250"}
 
 
 ## 6. 자료 구조 스택의 장단점
