@@ -86,7 +86,7 @@
                     for index in range(n):
                          print(index)
        ```    
-<img src="https://i.imgur.com/OgZVpyM.png" width=500/>
+<img src="https://i.imgur.com/OgZVpyM.png" width=800/>
 
 * 빅 오 입력값 표기 방법
   - 예: 
